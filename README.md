@@ -9,9 +9,9 @@
 --->
   
 <p align="left">
-  <a href="https://github.com/AndersonD93"><img width="400" src="https://github-readme-stats.vercel.app/api?username=johaoduran27&show_icons=true&theme=gruvbox">
-  <a href="https://github.com/AndersonD93"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johaoduran27&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
-  <a href="https://github.com/AndersonD93"><img width="800" src="https://github-profile-trophy.vercel.app/?username=johaoduran27&row=1&column=5&theme=gruvbox">
+  <a href="https://github.com/AndersonD93"><img width="400" src="https://github-readme-stats.vercel.app/api?username=AndersonD93&show_icons=true&theme=gruvbox">
+  <a href="https://github.com/AndersonD93"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonD93&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=gruvbox">
+  <a href="https://github.com/AndersonD93"><img width="800" src="https://github-profile-trophy.vercel.app/?username=AndersonD93&row=1&column=5&theme=gruvbox">
 </p>
         
 ## My repos

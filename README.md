@@ -1,6 +1,6 @@
 # ```Hey there!, I’m Anderson Durán.```
 
-* :godmode: I’m interested in **Programming** and **Finanzas**
+* :godmode: I’m interested in **Programming** and **Finance**
 * * :feelsgood: How to reach me? If you like my repos, you would contact me by _**[e-mail](mailto:johaoduranse@gmail.com)**_ or _**[linkedin](https://www.linkedin.com/in/anderson-johao-duran-sep%C3%BAlveda-b2b957135/)**_
 <!---
 * :suspect: I’m currently learning English, Web Development, git, frameworks and other stuff

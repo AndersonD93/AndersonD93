@@ -25,7 +25,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### [📊 Sistema de Pronósticos Deportivos]([https://github.com/AndersonD93/deporte-pronosticos](https://github.com/AndersonD93/project_bets_manager))
+### [📊 Sistema de Pronósticos Deportivos](https://github.com/AndersonD93/project_bets_manager)
 Sistema serverless con autenticación montado en la infraestructura de aws y cálculo de puntuaciones basado en DynamoDB.
 
 
